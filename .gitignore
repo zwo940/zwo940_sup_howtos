@@ -1,0 +1,53 @@
+# --- Default: Erstmal alles ignorieren (außer Verzeichnisse + Git)
+*
+!*/
+!/.gitignore
+!/.gitattributes
+
+# --- Markdown / Text
+!**/*.md
+!**/*.txt
+
+# --- Web / Doku (HTML/CSS/JS)
+!**/*.html
+!**/*.htm
+!**/*.css
+!**/*.js
+
+# --- Datenformate (optional, oft nützlich für Doku)
+!**/*.json
+!**/*.yaml
+!**/*.yml
+!**/*.csv
+
+# --- Bilder (für Doku, Screenshots)
+!**/*.png
+!**/*.jpg
+!**/*.jpeg
+!**/*.webp
+!**/*.gif
+!**/*.svg
+
+# --- Diagramme / Doku-Quellen
+!**/*.drawio
+!**/*.puml
+!**/*.plantuml
+!**/*.mermaid
+!**/*.mmd
+
+# --- PDFs (Export aus Doku-Tools)
+!**/*.pdf
+
+# --- LibreOffice / Office-Dokumente
+!**/*.odt
+!**/*.ods
+!**/*.odp
+!**/*.ott
+!**/*.ots
+!**/*.otp
+!**/*.doc
+!**/*.docx
+!**/*.xls
+!**/*.xlsx
+!**/*.ppt
+!**/*.pptx

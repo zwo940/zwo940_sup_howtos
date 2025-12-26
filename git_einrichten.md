@@ -1,3 +1,7 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright 2025 Marcus-Erich Seidler (zwo940.de) -->
+
+
 ````md
 # zwo940_sup_howtos – Mini-Howto: Repo initialisieren & auf GitHub pushen
 
